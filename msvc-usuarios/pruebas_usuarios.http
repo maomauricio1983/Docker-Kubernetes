@@ -1,0 +1,40 @@
+GET localhost:8001
+
+###
+GET localhost:8001/9
+
+
+### crea un usuario
+POST localhost:8001
+Content-Type: application/json
+
+{
+  "nombre": "maria cardozo",
+  "email": "mariacardozo@mail.com",
+  "password": "12345+"
+}
+
+
+###
+PUT localhost:8001/9
+Content-Type: application/json
+
+{
+  "nombre": "maria1",
+  "email": "maria@mail.com",
+  "password": "12345+3"
+}
+
+###
+DELETE localhost:8001/12
+
+
+### devuelve todos los usuarios buscados por id's
+GET localhost:8001/usuarios-por-curso?ids=1,9,10,11
+
+
+###
+DELETE localhost:8001/9
+
+
+

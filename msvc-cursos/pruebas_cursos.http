@@ -1,0 +1,53 @@
+GET localhost:8002
+
+### devuelve el curso por id con sus usuarios inscritos
+GET localhost:8002/2
+
+
+
+###
+POST localhost:8002
+Content-Type: application/json
+
+{
+  "nombre": "Postgres"
+}
+
+
+###
+PUT localhost:8002/8
+Content-Type: application/json
+
+{
+  "nombre": "Postgres SQL"
+}
+
+
+###
+DELETE localhost:8002/8
+
+
+
+### asigna un usuario al curso
+PUT localhost:8002/asignar-usuario/2
+Content-Type: application/json
+
+{
+  "id": 9,
+  "nombre": "maria1",
+  "email": "maria1@mail.com",
+  "password": "12345+3"
+}
+
+
+
+### crea un usuario y lo asigna al curso
+POST localhost:8002/crear-usuario/5
+Content-Type: application/json
+
+{
+  "nombre": "arnold",
+  "email": "maomauricioC@mail.com",
+  "password": "12345678"
+}
+

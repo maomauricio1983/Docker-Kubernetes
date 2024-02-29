@@ -1,0 +1,36 @@
+2024-02-29 16:14:43.574  INFO 17903 --- [main] o.a.s.m.u.MsvcUsuariosApplicationTests   : Starting MsvcUsuariosApplicationTests using Java 17.0.9 on CO000JF60XTW0KG with PID 17903 (started by arnmunoz in /Users/arnmunoz/Documents/curso-kubernetes/msvc-usuarios)
+2024-02-29 16:14:43.575  INFO 17903 --- [main] o.a.s.m.u.MsvcUsuariosApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2024-02-29 16:14:43.575  INFO 17902 --- [main] o.a.s.m.u.MsvcUsuariosApplicationTests   : Starting MsvcUsuariosApplicationTests using Java 17.0.9 on CO000JF60XTW0KG with PID 17902 (started by arnmunoz in /Users/arnmunoz/Documents/curso-kubernetes/msvc-usuarios)
+2024-02-29 16:14:43.576  INFO 17902 --- [main] o.a.s.m.u.MsvcUsuariosApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2024-02-29 16:14:43.905  INFO 17902 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-02-29 16:14:43.908  INFO 17903 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-02-29 16:14:43.929  INFO 17902 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 20 ms. Found 1 JPA repository interfaces.
+2024-02-29 16:14:43.929  INFO 17903 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 17 ms. Found 1 JPA repository interfaces.
+2024-02-29 16:14:44.027  INFO 17902 --- [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=d23e8b81-0daf-3e5a-8cee-8109ca575e59
+2024-02-29 16:14:44.032  INFO 17903 --- [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=d23e8b81-0daf-3e5a-8cee-8109ca575e59
+2024-02-29 16:14:44.286  INFO 17903 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-02-29 16:14:44.286  INFO 17902 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-02-29 16:14:44.316  INFO 17902 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.5.Final
+2024-02-29 16:14:44.316  INFO 17903 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.5.Final
+2024-02-29 16:14:44.403  INFO 17903 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2024-02-29 16:14:44.403  INFO 17902 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2024-02-29 16:14:44.445  INFO 17902 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-02-29 16:14:44.445  INFO 17903 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-02-29 16:14:44.600  INFO 17902 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-02-29 16:14:44.600  INFO 17903 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-02-29 16:14:44.607  INFO 17902 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2024-02-29 16:14:44.607  INFO 17903 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2024-02-29 16:14:44.843  INFO 17903 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2024-02-29 16:14:44.843  INFO 17902 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2024-02-29 16:14:44.847  INFO 17902 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-02-29 16:14:44.847  INFO 17903 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-02-29 16:14:45.035  WARN 17902 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-02-29 16:14:45.036  WARN 17903 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-02-29 16:14:45.319  INFO 17903 --- [main] o.a.s.m.u.MsvcUsuariosApplicationTests   : Started MsvcUsuariosApplicationTests in 2.352 seconds (JVM running for 2.746)
+2024-02-29 16:14:45.320  INFO 17902 --- [main] o.a.s.m.u.MsvcUsuariosApplicationTests   : Started MsvcUsuariosApplicationTests in 2.352 seconds (JVM running for 2.748)
+2024-02-29 16:14:45.401  INFO 17902 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-02-29 16:14:45.402  INFO 17902 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-02-29 16:14:45.404  INFO 17902 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2024-02-29 16:14:45.405  INFO 17903 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-02-29 16:14:45.406  INFO 17903 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-02-29 16:14:45.408  INFO 17903 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.

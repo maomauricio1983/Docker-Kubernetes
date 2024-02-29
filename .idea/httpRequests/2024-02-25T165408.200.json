@@ -1,0 +1,18 @@
+{
+  "id": 2,
+  "nombre": "Docker",
+  "cursoUsuarios": [
+    {
+      "id": 6,
+      "usuarioId": 9
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 9,
+      "nombre": "maria1",
+      "email": "maria@mail.com",
+      "password": "12345+3"
+    }
+  ]
+}

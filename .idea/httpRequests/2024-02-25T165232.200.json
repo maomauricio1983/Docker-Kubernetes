@@ -1,0 +1,11 @@
+{
+  "id": 2,
+  "nombre": "Docker",
+  "cursoUsuarios": [
+    {
+      "id": 1,
+      "usuarioId": 1
+    }
+  ],
+  "usuarios": []
+}

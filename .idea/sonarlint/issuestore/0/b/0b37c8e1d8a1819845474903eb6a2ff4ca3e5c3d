@@ -1,0 +1,11 @@
+
+c
+java:S1192L"HDefine a constant instead of duplicating this literal "mensaje" 3 times.(¸ÿÅ—úÿÿÿÿ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+[
+java:S4684%"@Replace this persistent entity with a simple POJO or DTO object.(–ìËÖùÿÿÿÿ
+[
+java:S4684."@Replace this persistent entity with a simple POJO or DTO object.(¾éßûúÿÿÿÿ
+B
+java:S1602}",Remove useless curly braces around statement(Óÿé¬

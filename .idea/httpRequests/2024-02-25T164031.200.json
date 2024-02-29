@@ -1,0 +1,47 @@
+[
+  {
+    "id": 2,
+    "nombre": "Docker",
+    "cursoUsuarios": [
+      {
+        "id": 1,
+        "usuarioId": 1
+      }
+    ],
+    "usuarios": []
+  },
+  {
+    "id": 3,
+    "nombre": "Kubernetes",
+    "cursoUsuarios": [],
+    "usuarios": []
+  },
+  {
+    "id": 4,
+    "nombre": "Spring",
+    "cursoUsuarios": [],
+    "usuarios": []
+  },
+  {
+    "id": 5,
+    "nombre": "SpringBoot",
+    "cursoUsuarios": [
+      {
+        "id": 3,
+        "usuarioId": 11
+      }
+    ],
+    "usuarios": []
+  },
+  {
+    "id": 6,
+    "nombre": "Postgres SQL",
+    "cursoUsuarios": [
+      {
+        "id": 2,
+        "usuarioId": 10
+      }
+    ],
+    "usuarios": []
+  }
+]

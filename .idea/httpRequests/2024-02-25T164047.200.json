@@ -1,0 +1,11 @@
+{
+  "id": 6,
+  "nombre": "Postgres SQL",
+  "cursoUsuarios": [
+    {
+      "id": 2,
+      "usuarioId": 10
+    }
+  ],
+  "usuarios": []
+}
