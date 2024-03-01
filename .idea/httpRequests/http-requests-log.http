@@ -3,6 +3,398 @@ Connection: Keep-Alive
 User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
 Accept-Encoding: br,deflate,gzip,x-gzip
 
+<> 2024-03-01T091244.200.json
+
+###
+
+GET http://localhost:8002/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-01T091201.200.json
+
+###
+
+GET http://localhost:8002
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-01T091159.200.json
+
+###
+
+GET http://localhost:8002
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-01T091025.200.json
+
+###
+
+PUT http://localhost:8002/8
+Content-Type: application/json
+Content-Length: 30
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "nombre": "Postgres SQL"
+}
+
+###
+
+GET http://localhost:8001/9
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-01T091013.200.json
+
+###
+
+GET http://localhost:8001
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-01T091011.200.json
+
+###
+
+GET http://localhost:8001
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-01T091010.200.json
+
+###
+
+GET http://localhost:8002
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-01T090954.200.json
+
+###
+
+GET http://localhost:8001
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-01T090945.200.json
+
+###
+
+GET http://localhost:8002/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-01T090534.500.json
+
+###
+
+GET http://localhost:8002/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-01T090146.500.json
+
+###
+
+POST http://localhost:8002/crear-usuario/5
+Content-Type: application/json
+Content-Length: 89
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "nombre": "arnold2",
+  "email": "maomauricioC@mail.com2",
+  "password": "123456782"
+}
+
+<> 2024-03-01T085901.404.json
+
+###
+
+PUT http://localhost:8002/asignar-usuario/2
+Content-Type: application/json
+Content-Length: 90
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 9,
+  "nombre": "maria1",
+  "email": "maria1@mail.com",
+  "password": "12345+3"
+}
+
+<> 2024-03-01T085829.404.json
+
+###
+
+POST http://localhost:8002
+Content-Type: application/json
+Content-Length: 27
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "nombre": "Postgres3"
+}
+
+<> 2024-03-01T085815.201.json
+
+###
+
+GET http://localhost:8002/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-01T085514.500.json
+
+###
+
+GET http://localhost:8002/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-01T085513.500.json
+
+###
+
+GET http://localhost:8002/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-01T085500.500.json
+
+###
+
+GET http://localhost:8002/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-01T085459.500.json
+
+###
+
+GET http://localhost:8002
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-01T085445.200.json
+
+###
+
+GET http://localhost:8002/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-01T085443.500.json
+
+###
+
+GET http://localhost:8002/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-01T085149.500.json
+
+###
+
+GET http://localhost:8002/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-01T085148.500.json
+
+###
+
+GET http://localhost:8002/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-01T084954.500.json
+
+###
+
+GET http://localhost:8002/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-01T084953.500.json
+
+###
+
+GET http://localhost:8002/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-01T084830.500.json
+
+###
+
+GET http://localhost:8002/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-01T084829.500.json
+
+###
+
+GET http://localhost:8002/2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-01T084818.500.json
+
+###
+
+GET http://localhost:8002/2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-01T084817.500.json
+
+###
+
+POST http://localhost:8002
+Content-Type: application/json
+Content-Length: 26
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "nombre": "Postgres"
+}
+
+<> 2024-03-01T084536.201.json
+
+###
+
+GET http://localhost:8002/2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-01T084515.500.json
+
+###
+
+GET http://localhost:8002/2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-01T084514.500.json
+
+###
+
+GET http://localhost:8002/2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-01T084459.500.json
+
+###
+
+PUT http://localhost:8002/8
+Content-Type: application/json
+Content-Length: 30
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "nombre": "Postgres SQL"
+}
+
+###
+
+PUT http://localhost:8002/8
+Content-Type: application/json
+Content-Length: 30
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "nombre": "Postgres SQL"
+}
+
+###
+
+GET http://localhost:8002
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-01T084443.200.json
+
+###
+
+GET http://localhost:8002
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-01T083528.200.json
+
+###
+
+GET http://localhost:8001/usuarios-por-curso?ids=1,9,10,11
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-29T190905.200.json
+
+###
+
+GET http://localhost:8001
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-29T183213.200.json
+
+###
+
+GET http://localhost:8002/2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
 <> 2024-02-25T165446.200.json
 
 ###
@@ -107,350 +499,6 @@ Accept-Encoding: br,deflate,gzip,x-gzip
 }
 
 <> 2024-02-25T164956.201.json
-
-###
-
-PUT http://localhost:8001/usuario/9
-Content-Type: application/json
-Content-Length: 78
-Connection: Keep-Alive
-User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
-Accept-Encoding: br,deflate,gzip,x-gzip
-
-{
-  "nombre": "maria1",
-  "email": "maria@mail.com",
-  "password": "12345+3"
-}
-
-<> 2024-02-25T164949.404.json
-
-###
-
-POST http://localhost:8001
-Content-Type: application/json
-Content-Length: 91
-Connection: Keep-Alive
-User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
-Accept-Encoding: br,deflate,gzip,x-gzip
-
-{
-  "nombre": "maria cardozo",
-  "email": "mariacardozo@mail.com",
-  "password": "12345+"
-}
-
-<> 2024-02-25T164914.201.json
-
-###
-
-POST http://localhost:8001/usuarios
-Content-Type: application/json
-Content-Length: 91
-Connection: Keep-Alive
-User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
-Accept-Encoding: br,deflate,gzip,x-gzip
-
-{
-  "nombre": "maria cardozo",
-  "email": "mariacardozo@mail.com",
-  "password": "12345+"
-}
-
-<> 2024-02-25T164905.405.json
-
-###
-
-GET http://localhost:8001/9
-Connection: Keep-Alive
-User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
-Accept-Encoding: br,deflate,gzip,x-gzip
-
-<> 2024-02-25T164837.200.json
-
-###
-
-GET http://localhost:8001
-Connection: Keep-Alive
-User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
-Accept-Encoding: br,deflate,gzip,x-gzip
-
-<> 2024-02-25T164825.200.json
-
-###
-
-GET http://localhost:8001/usuarios
-Connection: Keep-Alive
-User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
-Accept-Encoding: br,deflate,gzip,x-gzip
-
-<> 2024-02-25T164819.400.json
-
-###
-
-POST http://localhost:8002/crear-usuario/5
-Content-Type: application/json
-Content-Length: 86
-Connection: Keep-Alive
-User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
-Accept-Encoding: br,deflate,gzip,x-gzip
-
-{
-  "nombre": "arnold",
-  "email": "maomauricioC@mail.com",
-  "password": "12345678"
-}
-
-<> 2024-02-25T164730.201.json
-
-###
-
-POST http://localhost:8002/crear-usuario/5
-Content-Type: application/json
-Content-Length: 85
-Connection: Keep-Alive
-User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
-Accept-Encoding: br,deflate,gzip,x-gzip
-
-{
-  "nombre": "arnold",
-  "email": "maomauricio@mail.com",
-  "password": "12345678"
-}
-
-<> 2024-02-25T164718.404.json
-
-###
-
-PUT http://localhost:8002/crear-usuario/5
-Content-Type: application/json
-Content-Length: 85
-Connection: Keep-Alive
-User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
-Accept-Encoding: br,deflate,gzip,x-gzip
-
-{
-  "nombre": "arnold",
-  "email": "maomauricio@mail.com",
-  "password": "12345678"
-}
-
-<> 2024-02-25T164701.405.json
-
-###
-
-PUT http://localhost:8002/crear-usuario/5
-Content-Type: application/json
-Content-Length: 85
-Connection: Keep-Alive
-User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
-Accept-Encoding: br,deflate,gzip,x-gzip
-
-{
-  "nombre": "arnold",
-  "email": "maomauricio@mail.com",
-  "password": "12345678"
-}
-
-<> 2024-02-25T164647-1.405.json
-
-###
-
-PUT http://localhost:8002/crear-usuario/5
-Content-Type: application/json
-Content-Length: 85
-Connection: Keep-Alive
-User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
-Accept-Encoding: br,deflate,gzip,x-gzip
-
-{
-  "nombre": "arnold",
-  "email": "maomauricio@mail.com",
-  "password": "12345678"
-}
-
-<> 2024-02-25T164647.405.json
-
-###
-
-PUT http://localhost:8002/crear-usuario/5
-Content-Type: application/json
-Content-Length: 85
-Connection: Keep-Alive
-User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
-Accept-Encoding: br,deflate,gzip,x-gzip
-
-{
-  "nombre": "arnold",
-  "email": "maomauricio@mail.com",
-  "password": "12345678"
-}
-
-<> 2024-02-25T164626.405.json
-
-###
-
-PUT http://localhost:8002/asignar-usuario/6
-Content-Type: application/json
-Content-Length: 88
-Connection: Keep-Alive
-User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
-Accept-Encoding: br,deflate,gzip,x-gzip
-
-{
-  "id": 9,
-  "nombre": "maria",
-  "email": "maria1@mail.com",
-  "password": "12345+"
-}
-
-<> 2024-02-25T164531.201.json
-
-###
-
-PUT http://localhost:8002/asignar-usuario/9
-Content-Type: application/json
-Content-Length: 89
-Connection: Keep-Alive
-User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
-Accept-Encoding: br,deflate,gzip,x-gzip
-
-{
-  "id": 10,
-  "nombre": "maria",
-  "email": "maria1@mail.com",
-  "password": "12345+"
-}
-
-###
-
-PUT http://localhost:8002/asignar-usuario/6
-Content-Type: application/json
-Content-Length: 89
-Connection: Keep-Alive
-User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
-Accept-Encoding: br,deflate,gzip,x-gzip
-
-{
-  "id": 10,
-  "nombre": "maria",
-  "email": "maria1@mail.com",
-  "password": "12345+"
-}
-
-<> 2024-02-25T164408.404.json
-
-###
-
-PUT http://localhost:8002/asignar-usuario/6
-Content-Type: application/json
-Content-Length: 94
-Connection: Keep-Alive
-User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
-Accept-Encoding: br,deflate,gzip,x-gzip
-
-{
-  "id": 10,
-  "nombre": "maria",clear
-  "email": "maria1@mail.com",
-  "password": "12345+"
-}
-
-<> 2024-02-25T164340.400.json
-
-###
-
-DELETE http://localhost:8002/8
-Connection: Keep-Alive
-User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
-Accept-Encoding: br,deflate,gzip,x-gzip
-
-###
-
-PUT http://localhost:8002/8
-Content-Type: application/json
-Content-Length: 30
-Connection: Keep-Alive
-User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
-Accept-Encoding: br,deflate,gzip,x-gzip
-
-{
-  "nombre": "Postgres SQL"
-}
-
-<> 2024-02-25T164313.201.json
-
-###
-
-PUT http://localhost:8002/editar/8
-Content-Type: application/json
-Content-Length: 30
-Connection: Keep-Alive
-User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
-Accept-Encoding: br,deflate,gzip,x-gzip
-
-{
-  "nombre": "Postgres SQL"
-}
-
-<> 2024-02-25T164243.404.json
-
-###
-
-PUT http://localhost:8002/editar/8
-Content-Type: application/json
-Content-Length: 30
-Connection: Keep-Alive
-User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
-Accept-Encoding: br,deflate,gzip,x-gzip
-
-{
-  "nombre": "Postgres SQL"
-}
-
-<> 2024-02-25T164236.404.json
-
-###
-
-POST http://localhost:8002
-Content-Type: application/json
-Content-Length: 26
-Connection: Keep-Alive
-User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
-Accept-Encoding: br,deflate,gzip,x-gzip
-
-{
-  "nombre": "Postgres"
-}
-
-<> 2024-02-25T164209.201.json
-
-###
-
-GET http://localhost:8002/6
-Connection: Keep-Alive
-User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
-Accept-Encoding: br,deflate,gzip,x-gzip
-
-<> 2024-02-25T164047.200.json
-
-###
-
-GET http://localhost:8002
-Connection: Keep-Alive
-User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
-Accept-Encoding: br,deflate,gzip,x-gzip
-
-<> 2024-02-25T164031.200.json
-
-###
-
-GET http://localhost:8002/cursos
-Connection: Keep-Alive
-User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
-Accept-Encoding: br,deflate,gzip,x-gzip
-
-<> 2024-02-25T164020.400.json
 
 ###
 
